@@ -1,0 +1,3 @@
+Upload copy safety note
+
+Hard-coded API key values were replaced with YOUR_API_KEY in assets\js\index.js. Original desktop files were not changed. Add your own key to this file before using that API integration.
